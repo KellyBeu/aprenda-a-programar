@@ -9,7 +9,7 @@
 9
 
 
-let n = 1000
+let n = 30
 let i = 1
 
 while (i <= n) {
