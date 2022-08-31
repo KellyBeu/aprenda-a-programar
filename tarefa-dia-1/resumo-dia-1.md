@@ -38,3 +38,38 @@
 ## O poder do GitHub para a sua carreira em programação
 - O GitHub é uma ferramenta poderosa para trabalhar em projetos de software, compartilhar o seu portfólio e mostrar para os recrutadores que você programa todos os dias
 - Cada verdinho no GitHub é uma prova de que você programou naquele dia. Por isso, ao utilizar o GitHub, você pode mostrar a todos que você está sempre colocando em prática o que está aprendendo e isso é muito importante para conquistar oportunidades na área.
+
+$ history
+    1  clear
+    2  pwd
+    3  ls
+    4  head -5 resumo-dia-1.md
+    5  head -3 resumo-dia-1.md
+    6  grep -ic programação resumo-dia-1.md
+    7  grep -v programação resumo-dia-1.md
+    8  grep -v * programação
+    9  grep -- * resumo-dia-1.md
+   10  grep --v - resumo-dia-1.md
+   11  grep -v - resumo-dia-1.md
+   12  grep -v # resumo-dia-1.md
+   13  grep -v * resumo-dia-1.md
+   14  pwd
+   15  git status
+   16  history
+   17  cd ..
+   18  ls
+   19  tarefa-dia-1
+   20  cd tarefa-dia-1
+   21  touch test.js
+   22  ls
+   23  rm test.js
+   24  ls
+   25  cd ..
+   26  ls
+   27  mkdir pasta-teste
+   28  ls
+   29  rmkdir pasta-teste/
+   30  rmdir pasta-teste/
+   31  ls
+   32  cd tarefa-dia-1
+   33  history
